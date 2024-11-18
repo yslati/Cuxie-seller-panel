@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Lato-700';
+  src: url('./fonts/Lato-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Lato-400';
+  src: url('./fonts/Lato-Regular.ttf');
+}
+  
