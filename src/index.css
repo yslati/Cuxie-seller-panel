@@ -11,4 +11,8 @@
   font-family: 'Lato-400';
   src: url('./fonts/Lato-Regular.ttf');
 }
-  
+
+@font-face {
+  font-family: 'Lato-600';
+  src: url('./fonts/Lato-Semibold.ttf');
+}
